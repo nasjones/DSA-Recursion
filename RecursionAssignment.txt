@@ -1,0 +1,23 @@
+What is the input to the program?
+What is the output of the program?
+What is the input to each recursive call?
+What is the output of each recursive call?
+
+
+
+1. Counting sheep:
+input : n where n is the number of sheeps
+
+output: 
+    n:Another sheep jumps over the fence
+    n-1:Another sheep jumps over the fence
+    n-2:Another sheep jumps over the fence
+    ...
+    n-(n-1):Another sheep jumps over the fence
+    All sheep jumped over the fence
+
+input of call: n-1
+output : n + ": Another sheep jumps over the fence"
+
+2.
+
